@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(417): warning C4018: “<”: 有符号/无符号不匹配
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(357): warning C4172: 返回局部变量或临时变量的地址: result
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(168): warning C4172: 返回局部变量或临时变量的地址: os_info
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(338): warning C4172: 返回局部变量或临时变量的地址: memory_info
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(438): warning C4172: 返回局部变量或临时变量的地址: net_info
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(122): warning C4172: 返回局部变量或临时变量的地址: result_str
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(306): warning C4172: 返回局部变量或临时变量的地址: cpu_info
+d:\document\iie\master-come-on\machine-learning_related\related_code\get_info\get_info\main.cpp(1383): warning C4172: 返回局部变量或临时变量的地址: exec_info
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Get_Info.vcxproj -> D:\document\IIE\master-come-on\machine-learning_related\related_code\Get_Info\Release\Get_Info.exe
